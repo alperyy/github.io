@@ -1,0 +1,26 @@
+
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 48px;
+      font-weight: bold;
+    }
+    .slogan {
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+    }
+    .footer {
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="90" text-anchor="middle" class="title">RAG NATION®</text>
+  <text x="50%" y="130" text-anchor="middle" class="slogan">ONE CLAN. MANY COLORS.</text>
+  <text x="50%" y="180" text-anchor="middle" class="slogan">We’re shaping the digital side of the clan.</text>
+  <text x="50%" y="205" text-anchor="middle" class="slogan">Live soon. Stay close.</text>
+  <text x="50%" y="260" text-anchor="middle" class="footer">The Clan</text>
+</svg>
